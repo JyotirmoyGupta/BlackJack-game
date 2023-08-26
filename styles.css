@@ -1,0 +1,41 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    background-image:url("https://img.freepik.com/free-photo/green-fabric-with-white-background_1340-26017.jpg?t=st=1692512343~exp=1692515943~hmac=4443f82368edd81d7c2376ebc4600b629e5e23b2bc6d6594053c5871f9e88ed4&w=1060");
+}
+h1 {
+    font-weight: bold;
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    margin-bottom: 2px;
+    margin-bottom: 2px;
+    background-color: goldenrod;
+    width: 150px;
+    color: #016f32;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 3px;
+}
+
+/* #newcard {
+    margin-top: 5px;
+    background-color: goldenrod;
+    width: 150px;
+    color: #016f32;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 3px;
+} */
